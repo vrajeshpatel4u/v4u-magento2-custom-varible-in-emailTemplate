@@ -1,0 +1,22 @@
+{
+    "name": "v4u/module-emailvariable",
+    "description": "",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "V4U",
+            "email": "vrajeshpatel4u@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "V4U\\Emailvariable\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
